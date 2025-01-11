@@ -1,16 +1,28 @@
 ## Hi there 👋
 
 <!--
-**alderighi1979/alderighi1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Carlos - Desenvolvedor Full Stack em Formação 
 
-Here are some ideas to get you started:
+**Sobre mim:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca por novos conhecimentos. Atualmente, estou me dedicando a uma transição de carreira para a área de desenvolvimento, cursando Full Stack com Python.
+
+**Habilidades:** Python, HTML, CSS, JavaScript
+
+**Projetos:**
+
+* **[Nome do Projeto 1]:** [Descrição breve do projeto, tecnologias utilizadas e link para o repositório]
+* **[Nome do Projeto 2]:** [Descrição breve do projeto, tecnologias utilizadas e link para o repositório]
+
+**Por que escolher me?**
+
+* **Experiência:** Minha experiência profissional na área de contabilidade me proporcionou habilidades de trabalhar com lógica e análise para resoluçaõ de problemas complexos , atenção aos detalhes, organização e planejamento devido ao volume de informações, pensamento crítico na avaliação para tomada de decisões com base em dados e adaptabilidade devido a constante mudança na área.
+* **Dedicação:** Sou um aprendiz rápido e dedicado, sempre buscando aprimorar minhas habilidades.
+* **Adaptabilidade:** Estou aberto a novas tecnologias e desafios, e me adapto facilmente a diferentes ambientes de trabalho.
+
+**Contato:**
+
+* **Email:** cealderighi@gmail.com
+
+**#python #fullstack #developer #javascript #html #css #[outras hashtags relevantes]**
 -->
