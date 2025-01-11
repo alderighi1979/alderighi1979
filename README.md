@@ -4,14 +4,9 @@
 
 **Sobre mim:**
 
-Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca por novos conhecimentos. Atualmente, estou me dedicando a uma transição de carreira para a área de desenvolvimento, cursando Full Stack com Python.
+Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca por novos conhecimentos. Atualmente, estou me dedicando a uma transição de carreira para a área de desenvolvimento, cursando Desenvolvedor Full Stack Python.
 
 **Habilidades:** Python, HTML, CSS, JavaScript
-
-**Projetos:**
-
-* **[Nome do Projeto 1]:** [Descrição breve do projeto, tecnologias utilizadas e link para o repositório]
-* **[Nome do Projeto 2]:** [Descrição breve do projeto, tecnologias utilizadas e link para o repositório]
 
 **Por que escolher me?**
 
