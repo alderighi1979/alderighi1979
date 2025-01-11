@@ -13,10 +13,15 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 * **Experiência:** Minha experiência profissional na área de contabilidade me proporcionou habilidades de trabalhar com lógica e análise para resolução de problemas complexos , atenção aos detalhes, organização e planejamento devido ao volume de informações, pensamento crítico na avaliação para tomada de decisões com base em dados e adaptabilidade devido a constante mudança na área.
 * **Dedicação:** Sou um aprendiz rápido e dedicado, sempre buscando aprimorar minhas habilidades.
 * **Adaptabilidade:** Estou aberto a novas tecnologias e desafios, e me adapto facilmente a diferentes ambientes de trabalho.
+### Detalhes / Linguagens utilizadas
 
-**Contato:**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alderighi1979&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alderighi1979&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
 
 * **Email:** cealderighi@gmail.com
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-alderighi/)](https://www.linkedin.com/in/carlos-alderighi/)
 <br>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
