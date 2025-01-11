@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ## Carlos - Desenvolvedor Full Stack em Formação 
 
 **Sobre mim:**
@@ -25,4 +24,3 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 * **Email:** cealderighi@gmail.com
 
 **#python #fullstack #developer #javascript #html #css #[outras hashtags relevantes]**
--->
