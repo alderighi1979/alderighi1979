@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Carlos - Desenvolvedor Full Stack em Formação 
+## Carlos - Desenvolvedor Full Stack Python em Formação 
 
 **Sobre mim:**
 
