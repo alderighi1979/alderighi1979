@@ -17,6 +17,11 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 **Contato:**
 
 * **Email:** cealderighi@gmail.com
+
+* ### Detalhes
+
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=alderighi1979&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
 <br>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
