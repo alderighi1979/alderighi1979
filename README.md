@@ -10,7 +10,7 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 
 **Por que escolher me?**
 
-* **Experiência:** Minha experiência profissional na área de contabilidade me proporcionou habilidades de trabalhar com lógica e análise para resoluçaõ de problemas complexos , atenção aos detalhes, organização e planejamento devido ao volume de informações, pensamento crítico na avaliação para tomada de decisões com base em dados e adaptabilidade devido a constante mudança na área.
+* **Experiência:** Minha experiência profissional na área de contabilidade me proporcionou habilidades de trabalhar com lógica e análise para resolução de problemas complexos , atenção aos detalhes, organização e planejamento devido ao volume de informações, pensamento crítico na avaliação para tomada de decisões com base em dados e adaptabilidade devido a constante mudança na área.
 * **Dedicação:** Sou um aprendiz rápido e dedicado, sempre buscando aprimorar minhas habilidades.
 * **Adaptabilidade:** Estou aberto a novas tecnologias e desafios, e me adapto facilmente a diferentes ambientes de trabalho.
 
