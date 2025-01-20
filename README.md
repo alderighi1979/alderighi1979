@@ -18,10 +18,13 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 | ------------- | ------------- |
 ### Projetos
 <a href="https://github.com/alderighi1979/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=variavel&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=projeto_calculadora_medias&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=gamesShop&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=agenda_telefonica&theme=buefy" />
 </a>
 
 <br />
