@@ -14,7 +14,7 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 * **Dedicação:** Sou um aprendiz rápido e dedicado, sempre buscando aprimorar minhas habilidades.
 * **Adaptabilidade:** Estou aberto a novas tecnologias e desafios, e me adapto facilmente a diferentes ambientes de trabalho.
 ### Detalhes / Linguagens utilizadas
-|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>|
+|<a href="https://github.com/alderighi1979/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alderighi1979&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alderighi's github stats" /></a> | <a href="https://github.com/alderighi1979/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alderighi1979&layout=compact&theme=buefy&hide_border=true" /></a>|
 | ------------- | ------------- |
 ### Projetos
 <a href="https://github.com/alderighi1979/github-readme-stats">
