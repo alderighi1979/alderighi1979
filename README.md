@@ -18,6 +18,9 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 | ------------- | ------------- |
 ### Projetos
 <a href="https://github.com/alderighi1979/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=Jogo_Adivinha_o_numero&theme=buefy" />
+</a>
+<a href="https://github.com/alderighi1979/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=portfolio_carlos_alderighi&theme=buefy" />
 </a>
 <a href="https://github.com/alderighi1979/github-readme-stats">
