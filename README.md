@@ -26,6 +26,9 @@ Sou um profissional com 46 anos, apaixonado por tecnologia e em constante busca 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=agenda_telefonica&theme=buefy" />
 </a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alderighi1979&repo=lista_de_tarefas_jQuery&theme=buefy" />
+</a>
 
 <br />
 <br />
